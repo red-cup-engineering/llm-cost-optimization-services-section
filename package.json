@@ -1,0 +1,22 @@
+{
+  "name": "@red-cup-engineering/llm-cost-optimization-services-section",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Owns the market field of independently addressed functions that reduce observed large-language-model resource pressure.",
+  "keywords": [
+    "llm",
+    "cost-optimization",
+    "capability-market",
+    "semiotic-voxel"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/llm-cost-optimization-services-section.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
