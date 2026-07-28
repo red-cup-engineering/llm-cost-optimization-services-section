@@ -18,5 +18,14 @@
   "publishConfig": {
     "access": "public",
     "provenance": true
+  },
+  "x-semiotic-voxel": {
+    "profile": "org.harmonious-union.semiotic-voxel.v1",
+    "owner": "red-cup-engineering",
+    "kind": "actor",
+    "actor": "urn:ame:llm-cost-optimization-services-section",
+    "operations": [],
+    "capabilities": [],
+    "package": "@red-cup-engineering/llm-cost-optimization-services-section"
   }
 }
