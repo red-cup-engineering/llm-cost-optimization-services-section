@@ -1,3 +1,0 @@
-[submodule "services/notebooklm-source-readiness-observation-service"]
-	path = services/notebooklm-source-readiness-observation-service
-	url = https://github.com/red-cup-engineering/notebooklm-source-readiness-observation-service.git
